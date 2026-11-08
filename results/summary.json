@@ -1,0 +1,28 @@
+{
+ "synthetic_val_128": {
+  "net": {
+   "ssim": 0.3629,
+   "pearson": 0.5427
+  },
+  "gs50": {
+   "ssim": 0.3111,
+   "pearson": 0.5397
+  }
+ },
+ "photos_bsds_test_32": {
+  "net": {
+   "ssim": 0.4886,
+   "pearson": 0.5183
+  },
+  "gs50": {
+   "ssim": 0.3977,
+   "pearson": 0.4549
+  }
+ },
+ "seconds_per_doe": {
+  "net_gpu": 0.2986,
+  "gs50_gpu": 0.0335,
+  "net_cpu": 1.0984,
+  "gs50_cpu": 0.1717
+ }
+}

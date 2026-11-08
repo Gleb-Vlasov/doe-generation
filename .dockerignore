@@ -1,0 +1,10 @@
+.git
+runs/
+data/
+out/
+presentation/
+__pycache__/
+*.pyc
+out_check/
+out_smoke/
+results/
